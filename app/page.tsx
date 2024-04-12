@@ -35,7 +35,7 @@ export default function Home() {
           />
         </div>
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-          <div className="flex mx-auto items-center justify-center text-4xl py-9">
+          <div className="flex mx-auto items-center justify-center text-4xl py-9 px-4">
             <Image src="/logo.svg" alt="logo" width={500} height={200} className="dark:drop-shadow-[0_0_0.2rem_#0f0f0fa0]"></Image>
           </div>
           <div className="text-center">
